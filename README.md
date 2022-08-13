@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/channel/UCMxcbkH5c0fko8qsLkUp_Ng">This is my youtube channel<a>
   
 <ul>
-  <a href="https://www.youtube.com/channel/UCMxcbkH5c0fko8qsLkUp_Ng">Youtube</a>
-  <a href="https://www.facebook.com/chibaatsuki/">Facebook</a>
+  <li href="https://www.youtube.com/channel/UCMxcbkH5c0fko8qsLkUp_Ng">Youtube</li>
+  <li href="https://www.facebook.com/chibaatsuki/">Facebook</li>
   <li>Twitter</li>
 </ul>
