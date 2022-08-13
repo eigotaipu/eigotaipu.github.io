@@ -4,3 +4,9 @@
 <p>Thank you for coming</p>
 <img src="https://prog-8.com/images/html/beginner/wanko.jpg">
 <a href="https://www.youtube.com/channel/UCMxcbkH5c0fko8qsLkUp_Ng">This is my youtube channel<a>
+  
+<ul>
+  <li>Youtube</li>
+  <li>Facebook</li>
+  <li>Twitter</li>
+</ul>
