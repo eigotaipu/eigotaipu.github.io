@@ -1,15 +1,14 @@
-# eigotaipu.github.io
-<head>
-  <meta charaset='utf-8'>
-  <title>Eifotype.github</title>
-  <link rel="stylesheet"  href="stylesheet.css">
+<html>
+  <head>
+    <h1>how can i use CSS!</h1>
+    
+    
+    
+  </head>
+  <body>
+ 
+
   
+  </body>
   
-  
-  
-  
-  
-  
-  
-  
-</head>
+<html>
